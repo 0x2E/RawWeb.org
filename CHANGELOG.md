@@ -1,6 +1,10 @@
+## 2025-04-07
+
+- Migrated from Elasticsearch to Meilisearch.
+
 ## 2025-02-17
 
-- Refactor pages to use browser-native components wherever possible.
+- Refactored pages to use browser-native components wherever possible.
 
 ## 2025-02-04
 
