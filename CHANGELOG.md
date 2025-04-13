@@ -1,3 +1,7 @@
+## 2025-04-10
+
+- Introduced Simhash to identify similar content.
+
 ## 2025-04-07
 
 - Migrated from Elasticsearch to Meilisearch.
