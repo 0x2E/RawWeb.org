@@ -1,3 +1,7 @@
+## 2025-08-06
+
+- Refactored UI (using Claude Code) for a better experience.
+
 ## 2025-04-10
 
 - Introduced Simhash to identify similar content.
