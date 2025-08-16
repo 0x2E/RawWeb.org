@@ -1,9 +1,10 @@
 <h1 align="center">RawWeb.org</h1>
 <p align="center">A search engine for personal websites.</p>
 <p align="center">
-  <a href="./CHANGELOG.md">Changelog</a> | 
+  <a href="https://rawweb.org">Search</a> |
   <a href="https://rawweb.org/submit">Submit</a> | 
-  <a href="https://rawweb.org/open">Open Data</a>
+  <a href="https://rawweb.org/open">Open Data</a> | 
+  <a href="./CHANGELOG.md">Changelog</a>
 </p>
 
 ## Intro
