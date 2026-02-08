@@ -1,6 +1,11 @@
+## 2026-01-21
+
+- Refactored UI for a better experience.
+- Improved backend code quality.
+
 ## 2025-08-06
 
-- Refactored UI (using Claude Code) for a better experience.
+- Refactored UI for a better experience.
 
 ## 2025-04-10
 
