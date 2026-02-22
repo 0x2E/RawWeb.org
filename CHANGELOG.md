@@ -1,3 +1,7 @@
+## 2026-02-21
+
+- Refactored the search engine using PostgreSQL + pg_textsearch
+
 ## 2026-01-21
 
 - Refactored UI for a better experience.
