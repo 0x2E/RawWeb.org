@@ -1,3 +1,7 @@
+## 2026-03-01
+
+- Rolled back the search engine core to Meilisearch due to stability and expected maintenance difficulties.
+
 ## 2026-02-21
 
 - Refactored the search engine using PostgreSQL + pg_textsearch
