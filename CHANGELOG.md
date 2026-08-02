@@ -1,3 +1,8 @@
+## 2026-08-01
+
+- Removed feed submit entry and used AI to review all existing feeds.
+- Simplified backend arch.
+
 ## 2026-03-01
 
 - Rolled back the search engine core to Meilisearch due to stability and expected maintenance difficulties.
