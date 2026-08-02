@@ -2,7 +2,6 @@
 <p align="center">A search engine for personal websites.</p>
 <p align="center">
   <a href="https://rawweb.org">Search</a> |
-  <a href="https://rawweb.org/submit">Submit</a> | 
   <a href="https://rawweb.org/open">Open Data</a> | 
   <a href="./CHANGELOG.md">Changelog</a>
 </p>
@@ -17,7 +16,7 @@ That’s why we’ve built this search engine to help you discover and explore c
 
 Our crawler is designed to be considerate of your website's resources.
 
-- It will request the feed link using the User-Agent `rawweb-bot/1.0`.
+- It will request the feed link using the User-Agent `rawweb-bot/1.0 (+https://rawweb.org/)`.
 - The time between requests will vary from 30 minutes to 48 hours, depending on several factors.
 
 ## Feed sources
